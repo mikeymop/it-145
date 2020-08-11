@@ -2,3 +2,5 @@
 
 Collection of projects and assignments for IT-145.
 This repository acts as an Eclipse workspace.
+
+Run using Java 1.8.
